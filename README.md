@@ -15,4 +15,4 @@ The game had 3 people work on it, however myself, Zachary Morello did the vast m
 * Art - Zachary Morello
 * Level Design - Zachary Morello, LobsterKun (Unused level)
 * Raw Footage - Twitch.tv Livestreamer jerma985
-* Isolating good frames for use in the game, from the raw greenscreen footage - Ben
+* Raw Footage Parsing - Ben
