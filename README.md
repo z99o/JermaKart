@@ -1,7 +1,7 @@
 # JermaKart  README
  
 JermaKart is a jerma985 fan game made in Unity.
-The compiled game can be found here: https://sadclowngames.itch.io/jermakart
+The published game can be found here: https://sadclowngames.itch.io/jermakart
 
 A version of the project 
 
