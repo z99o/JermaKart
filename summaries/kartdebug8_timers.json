@@ -1,0 +1,36 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1657648941",
+        "python_version": "3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\zmmor\\MiniConda3\\envs\\ml-agents-r1.0.8\\Scripts\\mlagents-learn config/ppo/trainer_config.yaml --run-id kartdebug8 --resume",
+        "mlagents_version": "0.16.1",
+        "mlagents_envs_version": "0.16.1",
+        "communication_protocol_version": "1.0.0",
+        "tensorflow_version": "2.9.1",
+        "end_time_seconds": "1657648945"
+    },
+    "total": 4.1057269000000005,
+    "count": 1,
+    "self": 0.21620350000000021,
+    "children": {
+        "run_training.setup": {
+            "total": 0.00615370000000004,
+            "count": 1,
+            "self": 0.00615370000000004
+        },
+        "TrainerController.start_learning": {
+            "total": 3.8833697000000003,
+            "count": 1,
+            "self": 0.0004819000000000351,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 3.8828878000000002,
+                    "count": 1,
+                    "self": 3.8828878000000002
+                }
+            }
+        }
+    }
+}

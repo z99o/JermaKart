@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_Menu_Main.unity
+    guid: 56ec790900bcde34c823a91b58023294
+  - enabled: 1
+    path: Assets/Scenes/Scene_Menu_Select.unity
+    guid: 7ad471768de688a4b82e48f071bd4eb5
+  - enabled: 1
+    path: Assets/Scenes/Scene_Race_1.unity
+    guid: ce9ebf5ec293a17458f6874dafbae5f3
+  - enabled: 1
+    path: Assets/Scenes/Scene_Race_3.unity
+    guid: c284dd4d9e83d724a8ee6c10a4e1e62e
+  - enabled: 0
+    path: Assets/Scenes/RaceMapBuild-1.unity
+    guid: ebd17c04a1fa6b34281b48ff09772b4a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 4564f1450c7073e4b8b3c86013db7ae9, type: 2}

@@ -1,0 +1,36 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1657650979",
+        "python_version": "3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\zmmor\\MiniConda3\\envs\\ml-agents\\Scripts\\mlagents-learn config/ppo/trainer_config.yaml --run-id test1 --resume",
+        "mlagents_version": "0.16.1",
+        "mlagents_envs_version": "0.16.1",
+        "communication_protocol_version": "1.0.0",
+        "tensorflow_version": "2.9.1",
+        "end_time_seconds": "1657650983"
+    },
+    "total": 4.580324599999999,
+    "count": 1,
+    "self": 0.2613191999999991,
+    "children": {
+        "run_training.setup": {
+            "total": 0.00682529999999959,
+            "count": 1,
+            "self": 0.00682529999999959
+        },
+        "TrainerController.start_learning": {
+            "total": 4.3121801,
+            "count": 1,
+            "self": 0.0004847999999997299,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 4.3116953,
+                    "count": 1,
+                    "self": 4.3116953
+                }
+            }
+        }
+    }
+}

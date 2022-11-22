@@ -1,0 +1,36 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1657648130",
+        "python_version": "3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\zmmor\\MiniConda3\\envs\\ml-agents-r1.0.8\\Scripts\\mlagents-learn aiconfig/jermakart/kart.yaml --run-id kartdebug4",
+        "mlagents_version": "0.16.1",
+        "mlagents_envs_version": "0.16.1",
+        "communication_protocol_version": "1.0.0",
+        "tensorflow_version": "2.9.1",
+        "end_time_seconds": "1657648141"
+    },
+    "total": 11.3236454,
+    "count": 1,
+    "self": 0.2283236000000013,
+    "children": {
+        "run_training.setup": {
+            "total": 0.0054508000000002,
+            "count": 1,
+            "self": 0.0054508000000002
+        },
+        "TrainerController.start_learning": {
+            "total": 11.089870999999999,
+            "count": 1,
+            "self": 0.0011443999999976029,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 11.088726600000001,
+                    "count": 1,
+                    "self": 11.088726600000001
+                }
+            }
+        }
+    }
+}

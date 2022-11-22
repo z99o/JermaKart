@@ -1,0 +1,10 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl woodLight(Clone)
+Kd 0.816 0.58 0.42
+map_Kd Textures/woodLight(Clone).png
+
+newmtl custom4(Clone)
+Kd 1 1 1
+map_Kd Textures/custom4(Clone).png
+

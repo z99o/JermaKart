@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 02f4d4579d502444a9e6562cc588c6f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1799840381341193130
+    second: drift2_0
+  - first:
+      213: -6815014900562856307
+    second: drift2_1
+  - first:
+      213: -4793949886900245946
+    second: drift2_2
+  - first:
+      213: 6336544758783071852
+    second: drift2_3
+  - first:
+      213: -6599256512828873764
+    second: drift2_4
+  - first:
+      213: -1472242552801345049
+    second: drift2_5
+  - first:
+      213: 5594678583697648180
+    second: drift2_6
+  - first:
+      213: 7706721772016470158
+    second: drift2_7
+  - first:
+      213: 2319055985150038916
+    second: drift2_8
+  - first:
+      213: 3122522388323605950
+    second: drift2_9
+  - first:
+      213: 3016640135748724077
+    second: drift2_10
+  - first:
+      213: -1330512560589620644
+    second: drift2_11
+  - first:
+      213: -2278236949999763167
+    second: drift2_12
+  - first:
+      213: -481970612379910841
+    second: drift2_13
+  - first:
+      213: 7978198519433389110
+    second: drift2_14
+  - first:
+      213: -8142619015874888043
+    second: drift2_15
+  - first:
+      213: 4740692835898846044
+    second: drift2_16
+  - first:
+      213: -5294183050293159242
+    second: drift2_17
+  - first:
+      213: 1924656636123579063
+    second: drift2_18
+  - first:
+      213: 5194378760867741657
+    second: drift2_19
+  - first:
+      213: -7984355028449236414
+    second: drift2_20
+  - first:
+      213: 5012762419962745638
+    second: drift2_21
+  - first:
+      213: -9033047241581685139
+    second: drift2_22
+  - first:
+      213: -3186052249784809517
+    second: drift2_23
+  - first:
+      213: -9129795330781021494
+    second: drift2_24
+  - first:
+      213: 2812594527752670995
+    second: drift2_25
+  - first:
+      213: -8893348638137814492
+    second: drift2_26
+  - first:
+      213: -1475562130622724782
+    second: drift2_27
+  - first:
+      213: -22518823676827078
+    second: drift2_28
+  - first:
+      213: -8724544592805057418
+    second: drift2_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drift2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c21c985bea507e0800000000000000
+      internalID: -1799840381341193130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 375
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86f4f03e043c61a0800000000000000
+      internalID: -6815014900562856307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 375
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a69403af7787db0800000000000000
+      internalID: -4793949886900245946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 375
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d0aab2edefe750800000000000000
+      internalID: 6336544758783071852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 375
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e62b7a2bba64a0800000000000000
+      internalID: -6599256512828873764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 375
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cf01d23b819be0800000000000000
+      internalID: -1472242552801345049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aa8cda78a44ad40800000000000000
+      internalID: 5594678583697648180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 300
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888fc3ae96c3fa60800000000000000
+      internalID: 7706721772016470158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 300
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839c11b121fe2020800000000000000
+      internalID: 2319055985150038916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 300
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9b3f719d655b20800000000000000
+      internalID: 3122522388323605950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 300
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652d7a78324dd920800000000000000
+      internalID: 3016640135748724077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 300
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3cd020e1198de0800000000000000
+      internalID: -1330512560589620644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121481980931260e0800000000000000
+      internalID: -2278236949999763167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 225
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfae81842bf49f0800000000000000
+      internalID: -481970612379910841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 225
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634ef5a784148be60800000000000000
+      internalID: 7978198519433389110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 225
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ebf61852b9ffe80800000000000000
+      internalID: -8142619015874888043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 225
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b6df854035ac140800000000000000
+      internalID: 4740692835898846044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 225
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad167c0984786b0800000000000000
+      internalID: -5294183050293159242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b28eb66301c5ba10800000000000000
+      internalID: 1924656636123579063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffa5646f3261840800000000000000
+      internalID: 5194378760867741657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 150
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aeda0976fd13190800000000000000
+      internalID: -7984355028449236414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 150
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6239e49bcd8e09540800000000000000
+      internalID: 5012762419962745638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 150
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d669336946b24a280800000000000000
+      internalID: -9033047241581685139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 150
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d70eb7fb5ed8c3d0800000000000000
+      internalID: -3186052249784809517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf6c4b4837c4180800000000000000
+      internalID: -9129795330781021494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 75
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc7eb32d7580720800000000000000
+      internalID: 2812594527752670995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 75
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227718588a749480800000000000000
+      internalID: -8893348638137814492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255c6306f00c58be0800000000000000
+      internalID: -1475562130622724782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 75
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aabf9cf3fffaff0800000000000000
+      internalID: -22518823676827078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift2_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 75
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67caccedae03ce680800000000000000
+      internalID: -8724544592805057418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3f8b60853db0e5438283b576c8e9d27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

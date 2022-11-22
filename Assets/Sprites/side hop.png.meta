@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 91f30c3d0ea65b74297278982b589e49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4204989546909174529
+    second: side hop_0
+  - first:
+      213: -3168865657695452148
+    second: side hop_1
+  - first:
+      213: -7477448135969842218
+    second: side hop_2
+  - first:
+      213: 6969667773227118455
+    second: side hop_3
+  - first:
+      213: -3244488654173700708
+    second: side hop_4
+  - first:
+      213: 4847047897645807065
+    second: side hop_5
+  - first:
+      213: 6122475651295923852
+    second: side hop_6
+  - first:
+      213: -6443933823405676688
+    second: side hop_7
+  - first:
+      213: 5688096798919411471
+    second: side hop_8
+  - first:
+      213: -6529694971200729191
+    second: side hop_9
+  - first:
+      213: -1155906910349723127
+    second: side hop_10
+  - first:
+      213: 8315595886740289204
+    second: side hop_11
+  - first:
+      213: -3534261119653141032
+    second: side hop_12
+  - first:
+      213: 3476320763230751560
+    second: side hop_13
+  - first:
+      213: 843841110483163744
+    second: side hop_14
+  - first:
+      213: -2574375853314835694
+    second: side hop_15
+  - first:
+      213: -1187978294119614332
+    second: side hop_16
+  - first:
+      213: 2404451718780155522
+    second: side hop_17
+  - first:
+      213: -3186697352652353117
+    second: side hop_18
+  - first:
+      213: 6942321383742253037
+    second: side hop_19
+  - first:
+      213: -7244377440629195430
+    second: side hop_20
+  - first:
+      213: -8876439862409241819
+    second: side hop_21
+  - first:
+      213: -1617020570529829036
+    second: side hop_22
+  - first:
+      213: -4947029015167642723
+    second: side hop_23
+  - first:
+      213: 5013840041544689452
+    second: side hop_24
+  - first:
+      213: -8426503832223675488
+    second: side hop_25
+  - first:
+      213: -3148265128014602063
+    second: side hop_26
+  - first:
+      213: -1819914591082033091
+    second: side hop_27
+  - first:
+      213: -5564877676188799396
+    second: side hop_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side hop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b80c3c6bf1b5a30800000000000000
+      internalID: 4204989546909174529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 470
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04c024497de504d0800000000000000
+      internalID: -3168865657695452148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 470
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5c1d9984ca3890800000000000000
+      internalID: -7477448135969842218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 470
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fa0b1b9eb39b060800000000000000
+      internalID: 6969667773227118455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 470
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9df03252c249f2d0800000000000000
+      internalID: -3244488654173700708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 470
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57b74d16c244340800000000000000
+      internalID: 4847047897645807065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec875aa2767f450800000000000000
+      internalID: 6122475651295923852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 376
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a7cb345c8296a0800000000000000
+      internalID: -6443933823405676688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c0abd6ed20fe40800000000000000
+      internalID: 5688096798919411471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 376
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0dedf40dd165a0800000000000000
+      internalID: -6529694971200729191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 376
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a7f2f0ac465ffe0800000000000000
+      internalID: -1155906910349723127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 376
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6badca66ee66370800000000000000
+      internalID: 8315595886740289204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a99bac38c3fec0800000000000000
+      internalID: -3534261119653141032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 282
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0fa9d05f5e3030800000000000000
+      internalID: 3476320763230751560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5835e40de5bb00800000000000000
+      internalID: 843841110483163744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 282
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b73d01dcaf54cd0800000000000000
+      internalID: -2574375853314835694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 282
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48830222904738fe0800000000000000
+      internalID: -1187978294119614332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 282
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f77159145e5120800000000000000
+      internalID: 2404451718780155522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a19a7044a396c3d0800000000000000
+      internalID: -3186697352652353117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 188
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72e8a3484185060800000000000000
+      internalID: 6942321383742253037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 188
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7170a91dc67b90800000000000000
+      internalID: -7244377440629195430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 188
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bdafa79fc80d480800000000000000
+      internalID: -8876439862409241819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe113cb503f89e0800000000000000
+      internalID: -1617020570529829036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 188
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93d169325f985bb0800000000000000
+      internalID: -4947029015167642723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a6ec04fcb49540800000000000000
+      internalID: 5013840041544689452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 94
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab07ddf86b0f0b80800000000000000
+      internalID: -8426503832223675488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a0f9db8d1f44d0800000000000000
+      internalID: -3148265128014602063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 94
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30510d525d5eb6e0800000000000000
+      internalID: -1819914591082033091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side hop_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 94
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee34ccc3595c2b0800000000000000
+      internalID: -5564877676188799396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b64d2203674b99e488659125bc787b4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

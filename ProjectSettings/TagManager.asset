@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Racer
+  - UI_Timer
+  - UI_ItemFrame
+  - UI_LapNum
+  - UI_Place
+  - UI_SpeedoImage
+  - UI_SpeedoText
+  - AudioManager
+  - Road
+  - Wall
+  - Item
+  - KillBox
+  - ProgressGate
+  - MainSpline
+  - UI_PlaceFlavor
+  - UI_PlayerIcon
+  - BoostPad
+  - UI_Speedlines
+  - BoostRing
+  - Hazard_Damage
+  - Rough Terrain
+  - Shortcut
+  - Jump
+  - Rail
+  - Gate
+  - Reward
+  - UI_Split1
+  - UI_Split2
+  - UI_Split3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Racer
+  - Killbox
+  - Wall
+  - Rough Terrain
+  - Road
+  - Unsafe Terrain
+  - Rail
+  - MainRoad
+  - Gate
+  - Hazard
+  - Reward
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
